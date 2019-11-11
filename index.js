@@ -1,6 +1,6 @@
-var axios = require('axios');
-var inquirer = require('inquirer');
-var fs = require('fs');
+const axios = require('axios'),
+    inquirer = require('inquirer'),
+    fs = require('fs');
 
 inquirer
 .prompt([
@@ -42,14 +42,5 @@ inquirer
     })
 
 })
-
-// Profile image
-// User name
-// Link to User GitHub profile
-// location 
-// User bio
-// Number of public repositories
-// Number of followers
-// Number of users following
 
 
