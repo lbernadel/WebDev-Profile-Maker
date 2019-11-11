@@ -7,3 +7,5 @@
 
 <span style='font-size:14pt;'>GitHub Repo: [Laurie Bernadel's Repo](https://github.com/lbernadel)</span>
 
+<span style='font-size:14pt;'>Public Repos: 12</span>
+
