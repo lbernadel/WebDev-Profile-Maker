@@ -1,4 +1,9 @@
 # <span style='color:purple;'>Laurie Bernadel</span>
 ![profile](https://avatars0.githubusercontent.com/u/55070235?v=4)
 
-<span style='font-size:18px;'>Bio: I was born in Queens Village, New York in the middle of an ice storm during the early morning hours of February 9, 1994. </span>
+<span style='font-size:14pt;'>Location: Charlotte Metro Area, Charlotte, NC</span>
+
+<span style='font-size:14pt;'>Bio: I'm a full-time student in Trilogy Edu.'s Full-Stack coding bootcamp, hosted by UNC Charlotte.</span>
+
+<span style='font-size:14pt;'>GitHub Repo: [Laurie Bernadel's Repo](https://github.com/lbernadel)</span>
+
