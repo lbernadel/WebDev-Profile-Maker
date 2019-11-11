@@ -26,13 +26,14 @@ inquirer
         userLoc = "Location: " + response.data.location,
         userRepo = "GitHub Repo: [" +response.data.name+ "'s Repo](" + response.data.html_url+")",
         publicRepos = "Public Repos: " + response.data.public_repos,
-        followers = "Followers: " + response.data.followers;
+        followers = "Followers: " + response.data.followers,
+        following = "Following: " + response.data.following;
 
         const spanStart = "<span style='font-size:14pt;'>",
         spanClose = "</span>";
 
-
-        let results=displayName + "\n" + avatar + "\n\n" +spanStart + userLoc + spanClose + "\n\n"+ spanStart +bio +spanClose + "\n\n" +spanStart + userRepo + spanClose +"\n\n" + spanStart+ publicRepos + spanClose+"\n\n"+ spanStart+ followers+spanClose+"\n\n";
+        let results=displayName + "\n" + avatar + "\n\n" +spanStart + userLoc + spanClose + "\n\n"+ spanStart +bio +spanClose + "\n\n" +spanStart + userRepo + spanClose +"\n\n" + spanStart+ publicRepos + spanClose+"\n\n"+ spanStart+ followers+spanClose+"\n\n"+ spanStart + following + spanClose;
+        
         fs.writeFile("profile.md",results, error =>{
             if(error){
                 console.log("Unfortunately, an error occurred.")

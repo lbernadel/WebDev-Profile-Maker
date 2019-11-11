@@ -1,4 +1,4 @@
-# <span style='color:green;'>Laurie Bernadel</span>
+# <span style='color:purple;'>Laurie Bernadel</span>
 ![profile](https://avatars0.githubusercontent.com/u/55070235?v=4)
 
 <span style='font-size:14pt;'>Location: Charlotte Metro Area, Charlotte, NC</span>
@@ -11,3 +11,4 @@
 
 <span style='font-size:14pt;'>Followers: 1</span>
 
+<span style='font-size:14pt;'>Following: 0</span>
